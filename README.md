@@ -51,5 +51,5 @@ Dado que este es principalmente un proyecto de maquetación, puedes ejecutarlo f
 
 Desarrollado por **Francisco González**.
 
-* **LinkedIn:** [linkedin.com/in/francisco-gonzalez](https://linkedin.com/in/francisco-gonzalez)
+* **LinkedIn:** [linkedin.com/in/francisco-gonzalez](https://linkedin.com/in/francisco-javi-gonzalez-garcia)
 * **GitHub:** [@FranciscoGG09](https://github.com/FranciscoGG09)
